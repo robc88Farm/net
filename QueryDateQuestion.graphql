@@ -1,0 +1,3 @@
+query DateQueryIssue($org_prospect_client_id: Int!, $as_of_date_dh: date!, $as_of_date: Date!) {
+## stuff
+}
